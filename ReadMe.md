@@ -6,6 +6,8 @@ Using data from kaggle, I looked into if a model could be developed to predict i
 
 ##  Tools
 
+* Jupyter notebook
+
 * Pandas
 
 * Numpy
